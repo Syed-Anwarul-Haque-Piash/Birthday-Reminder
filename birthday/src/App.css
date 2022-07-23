@@ -1,0 +1,23 @@
+body{
+  background-color: palevioletred;
+}
+.container{
+  height: 680px;
+  width: 500px;
+  background-color: white;
+  margin-left: 500px;
+  
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 3px grey;
+}
+.button{
+  width: 80%;
+  margin-left: 30px;
+  height: 35px;
+  background-color: palevioletred;
+  border: none;
+  color:white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}
